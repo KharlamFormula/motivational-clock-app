@@ -7,8 +7,8 @@ function App() {
   return (
     <div>
       <Clock />
+      Look!
       <API />
-      Hey!!!!!
     </div>
   );
 }
